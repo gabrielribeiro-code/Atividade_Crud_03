@@ -1,7 +1,7 @@
 <?php
 
 include("../infra/db/connect.php");
-include("../infra/db/verificacao.php");
+include("../public/component/verificacao.php");
 
 
 $id = $_GET["id"];

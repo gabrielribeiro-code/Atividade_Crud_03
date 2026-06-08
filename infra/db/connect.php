@@ -4,7 +4,7 @@
     $host = "localhost";
     $user = "root";
     $pass = "root";
-    $db = "sistema_simples";
+    $db = "sistema_simples2";
     
     $conn = new mysqli($host,$user,$pass,$db);
 
