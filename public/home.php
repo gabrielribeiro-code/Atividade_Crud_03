@@ -25,7 +25,7 @@
     <?php
         include("../public/component/navbar.php");
     ?>
-    <h2>Bem-vindo!</h2>
+    <h2 class="t1">Bem-vindo!</h2>
     <p> Usuário logado: 
         <?php echo $_SESSION["usuario"];?>
     </p>
